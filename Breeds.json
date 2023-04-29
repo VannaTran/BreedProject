@@ -1,0 +1,7 @@
+{
+  "HikingTrails":
+  [
+    {"BreedName":"","BreedId": 1,"BreedPicUrl":"","BreedAge":"","BreedDifficulity":"","BreedColor":"","BreedOriginalLocation":"", "BreedLatitude": 0.0, "BreedLongtitude" : 0.0, "BreedAverageWeight": "", "BreedAverageSize" : "", "BreedWebsiteAddress" : "", "BreedShortDes" : "", "CatSound" : "", "BreedPaw" : ""}
+  ],
+  "Status":"OK"
+}
