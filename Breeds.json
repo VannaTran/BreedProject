@@ -1,7 +1,25 @@
 {
-  "HikingTrails":
+  "Breeds":
   [
-    {"BreedName":"","BreedId": 1,"BreedPicUrl":"","BreedAge":"","BreedDifficulity":"","BreedColor":"","BreedOriginalLocation":"", "BreedLatitude": 0.0, "BreedLongtitude" : 0.0, "BreedAverageWeight": "", "BreedAverageSize" : "", "BreedWebsiteAddress" : "", "BreedShortDes" : "", "CatSound" : "", "BreedPaw" : ""}
+    {"BreedName":"","BreedId": 1,"BreedPicUrl":"","BreedAge":"","BreedDifficulity":"","BreedColor":"","BreedOriginalLocation":"", "BreedLatitude": 0.0, "BreedLongtitude" : 0.0, "BreedAverageWeight": "", "BreedAverageSize" : "", "BreedWebsiteAddress" : "", "BreedShortDes" : "", "CatSound" : "", "BreedPaw" : ""},
+    {"BreedName":"","BreedId": 2,"BreedPicUrl":"","BreedAge":"","BreedDifficulity":"","BreedColor":"","BreedOriginalLocation":"", "BreedLatitude": 0.0, "BreedLongtitude" : 0.0, "BreedAverageWeight": "", "BreedAverageSize" : "", "BreedWebsiteAddress" : "", "BreedShortDes" : "", "CatSound" : "", "BreedPaw" : ""},
+    {"BreedName":"","BreedId": 3,"BreedPicUrl":"","BreedAge":"","BreedDifficulity":"","BreedColor":"","BreedOriginalLocation":"", "BreedLatitude": 0.0, "BreedLongtitude" : 0.0, "BreedAverageWeight": "", "BreedAverageSize" : "", "BreedWebsiteAddress" : "", "BreedShortDes" : "", "CatSound" : "", "BreedPaw" : ""},
+    {"BreedName":"","BreedId": 4,"BreedPicUrl":"","BreedAge":"","BreedDifficulity":"","BreedColor":"","BreedOriginalLocation":"", "BreedLatitude": 0.0, "BreedLongtitude" : 0.0, "BreedAverageWeight": "", "BreedAverageSize" : "", "BreedWebsiteAddress" : "", "BreedShortDes" : "", "CatSound" : "", "BreedPaw" : ""},
+    {"BreedName":"","BreedId": 5,"BreedPicUrl":"","BreedAge":"","BreedDifficulity":"","BreedColor":"","BreedOriginalLocation":"", "BreedLatitude": 0.0, "BreedLongtitude" : 0.0, "BreedAverageWeight": "", "BreedAverageSize" : "", "BreedWebsiteAddress" : "", "BreedShortDes" : "", "CatSound" : "", "BreedPaw" : ""},
+    {"BreedName":"","BreedId": 6,"BreedPicUrl":"","BreedAge":"","BreedDifficulity":"","BreedColor":"","BreedOriginalLocation":"", "BreedLatitude": 0.0, "BreedLongtitude" : 0.0, "BreedAverageWeight": "", "BreedAverageSize" : "", "BreedWebsiteAddress" : "", "BreedShortDes" : "", "CatSound" : "", "BreedPaw" : ""},
+    {"BreedName":"","BreedId": 7,"BreedPicUrl":"","BreedAge":"","BreedDifficulity":"","BreedColor":"","BreedOriginalLocation":"", "BreedLatitude": 0.0, "BreedLongtitude" : 0.0, "BreedAverageWeight": "", "BreedAverageSize" : "", "BreedWebsiteAddress" : "", "BreedShortDes" : "", "CatSound" : "", "BreedPaw" : ""},
+    {"BreedName":"","BreedId": 8,"BreedPicUrl":"","BreedAge":"","BreedDifficulity":"","BreedColor":"","BreedOriginalLocation":"", "BreedLatitude": 0.0, "BreedLongtitude" : 0.0, "BreedAverageWeight": "", "BreedAverageSize" : "", "BreedWebsiteAddress" : "", "BreedShortDes" : "", "CatSound" : "", "BreedPaw" : ""},
+    {"BreedName":"","BreedId": 9,"BreedPicUrl":"","BreedAge":"","BreedDifficulity":"","BreedColor":"","BreedOriginalLocation":"", "BreedLatitude": 0.0, "BreedLongtitude" : 0.0, "BreedAverageWeight": "", "BreedAverageSize" : "", "BreedWebsiteAddress" : "", "BreedShortDes" : "", "CatSound" : "", "BreedPaw" : ""},
+    {"BreedName":"","BreedId": 10,"BreedPicUrl":"","BreedAge":"","BreedDifficulity":"","BreedColor":"","BreedOriginalLocation":"", "BreedLatitude": 0.0, "BreedLongtitude" : 0.0, "BreedAverageWeight": "", "BreedAverageSize" : "", "BreedWebsiteAddress" : "", "BreedShortDes" : "", "CatSound" : "", "BreedPaw" : ""}
+  
+  
+  
+  
+  
+  
+  
+  
+  
   ],
   "Status":"OK"
 }
